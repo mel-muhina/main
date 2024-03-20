@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/main/static/css/main.a9ab5b44.chunk.css",
+    "main.js": "/main/static/js/main.87d0017f.chunk.js",
+    "main.js.map": "/main/static/js/main.87d0017f.chunk.js.map",
+    "runtime-main.js": "/main/static/js/runtime-main.bb3784cf.js",
+    "runtime-main.js.map": "/main/static/js/runtime-main.bb3784cf.js.map",
+    "static/css/2.166db973.chunk.css": "/main/static/css/2.166db973.chunk.css",
+    "static/js/2.f1764f67.chunk.js": "/main/static/js/2.f1764f67.chunk.js",
+    "static/js/2.f1764f67.chunk.js.map": "/main/static/js/2.f1764f67.chunk.js.map",
+    "static/js/3.bfa607c5.chunk.js": "/main/static/js/3.bfa607c5.chunk.js",
+    "static/js/3.bfa607c5.chunk.js.map": "/main/static/js/3.bfa607c5.chunk.js.map",
+    "index.html": "/main/index.html",
+    "precache-manifest.65ff3e18368ca6be1af86850ca754ed3.js": "/main/precache-manifest.65ff3e18368ca6be1af86850ca754ed3.js",
+    "service-worker.js": "/main/service-worker.js",
+    "static/css/2.166db973.chunk.css.map": "/main/static/css/2.166db973.chunk.css.map",
+    "static/css/main.a9ab5b44.chunk.css.map": "/main/static/css/main.a9ab5b44.chunk.css.map",
+    "static/js/2.f1764f67.chunk.js.LICENSE.txt": "/main/static/js/2.f1764f67.chunk.js.LICENSE.txt",
+    "static/media/PreviousPortfolio.JPG": "/main/static/media/PreviousPortfolio.f9908342.JPG",
+    "static/media/ProfileMini.jpg": "/main/static/media/ProfileMini.f01bfef1.jpg",
+    "static/media/aboutImage.png": "/main/static/media/aboutImage.e38e0e89.png",
+    "static/media/beautybeginsscreen.jpg": "/main/static/media/beautybeginsscreen.8d2cc13e.jpg",
+    "static/media/bluesclues.jpg": "/main/static/media/bluesclues.eb5232c0.jpg",
+    "static/media/numgame.JPG": "/main/static/media/numgame.e953e394.JPG",
+    "static/media/index.css": "/main/static/media/roboto-vietnamese-400-normal.ca3b09b6.woff2",
+    "static/media/project.png": "/main/static/media/project.40c76b36.png",
+    "static/media/redux.png": "/main/static/media/redux.13cb0759.png",
+    "static/media/style.JPG": "/main/static/media/style.2ba87862.JPG",
+    "static/media/teacozy.JPG": "/main/static/media/teacozy.7b5e383e.JPG",
+    "static/media/web1.jpg": "/main/static/media/web1.7fd6c2e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb3784cf.js",
+    "static/css/2.166db973.chunk.css",
+    "static/js/2.f1764f67.chunk.js",
+    "static/css/main.a9ab5b44.chunk.css",
+    "static/js/main.87d0017f.chunk.js"
+  ]
+}
