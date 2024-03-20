@@ -1,0 +1,142 @@
+@import "../../vars.css";
+
+
+.container {
+    color: var(--color-text);
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+   
+    
+}
+
+.title {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    font-family: var(--font-outfit);
+    padding: 50px;
+    
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    margin-top: 14px;
+    gap: 10px;
+   }
+
+.content img {
+    border-radius: 10px;
+    width: 500px;
+    width: 100%;
+    }
+
+
+.projectItem {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    background: #19376d;
+    background: linear-gradient(180deg, rgba(87, 108, 188, 1) 0%, rgba(19, 42, 83, 1)50%);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 25px;
+   max-width: 35%;
+    margin: 0 auto;
+   
+   
+    
+}
+
+
+.projectItemDetails {
+    font-family: var(--font-outfit);
+    padding: 2%;
+   
+}
+
+.projectItemDetails h3 {
+    font-size: 25px;
+    font-weight: 700;
+    font-family: var(--font-outfit);
+}
+
+.languages {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 25px;
+    font-family: var(--font-outfit);
+  
+
+}
+
+.languages p {
+    margin-right: 10px;
+   background: rgba(11, 36, 71, 1); 
+    color: var(--color-text); 
+    border-radius: 100px;
+    padding: 5px 10px; 
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+button {
+    font-size: 30px;
+    font-family: var(--font-outfit);
+    border-radius: 100px;
+    border: none;
+    margin: 0px 5px 0px 5px;
+    padding: 5px 15px 5px 15px;
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    background-image: linear-gradient(90deg, rgba(165, 215, 232, 0.42) 0%, rgba(255, 255, 255, 0) 100%);
+    background-size: 0 100%;
+    background-repeat: no-repeat;
+    transition: 0.4s;
+    text-decoration: none;
+}
+
+button:hover {
+    background-size: 100% 100%;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: rgba(25, 55, 109, 1);
+    text-decoration: none;
+    
+}
+
+@media screen and (max-width: 830px) {
+
+   
+    .container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+       
+       
+    }
+
+    .content {
+        flex-direction: column;
+       
+
+    }
+    .projectItem {
+       max-width: 100%;
+    }
+   
+}

@@ -1,0 +1,27 @@
+[
+
+   {
+      "title": "Previous Portfolio",
+      "description": "This project focused on adding Javascript features to create effects.",
+      "languages": ["Javascript","HTML", "CSS"],
+      "demo": "https://mel-muhina.github.io/demoPortfolio/",
+      "source": "https://github.com/mel-muhina/demoPortfolio",
+      "imageSrc": "PreviousPortfolio.JPG"
+   },
+ {
+    "title": "Beauty Begins",
+    "description": "This is a project created focusing on the design for a makeup artist.",
+    "languages": ["HTML", "CSS"],
+    "demo": "https://mel-muhina.github.io/BeautyBegins",
+    "source": "https://github.com/mel-muhina/BeautyBegins",
+    "imageSrc": "beautybeginsscreen.jpg"
+ },
+ {
+   "title": "Blues Clues Dog Charity",
+   "description": "This is a project focusing on design and incorporating various elements.",
+   "languages": ["HTML", "CSS"],
+   "demo": "https://mel-muhina.github.io/BluesClues/",
+   "source": "https://github.com/mel-muhina/BluesClues",
+   "imageSrc": "bluesclues.jpg"
+}
+]

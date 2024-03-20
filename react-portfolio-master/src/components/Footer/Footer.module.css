@@ -1,0 +1,90 @@
+@import "../../vars.css";
+
+.container {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: var(--color-text);
+    font-family: var(--font-outfit);
+    margin-top: 179px;
+    padding: 0% 10% 0% 10%;
+    gap: 10px;
+    background: rgba(25, 55, 109, 1);
+        
+ 
+}
+
+.title {
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 4px;
+       
+}
+
+.description {
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    margin-top: -50px;
+   
+}
+
+
+.list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 26px;
+    list-style: none;
+    margin-top: 10%;
+    padding-bottom: 5%;
+
+}
+.list img {
+    width: 40px;
+    padding-right: 10px;
+    margin-top: 10px;
+    
+}
+
+.liItem  {
+   display: flex;
+   align-items: center;
+   gap: 25px;
+   font-size: 30px;
+  
+   
+}
+
+.liItem a {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    font-size: 30px;
+    color: var(--color-text);
+
+}
+
+.liItem a:hover {
+   color:  var(--color-primary);
+}
+
+
+@media screen and (max-width: 830px) {
+    .container {
+        flex-direction: column;
+        padding: 10px;
+                
+     
+    }
+
+    .title, .description {
+        text-align: center;
+    }
+    
+    .list  {
+       align-items: center;
+        
+    }
+}
