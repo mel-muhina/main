@@ -6,10 +6,10 @@
     align-items: center;
     justify-content: space-between;
     margin-top: 49px;
-    z-index: 1;
+    z-index: 0;
     margin-left: 10%;
     margin-right: 10%;
-    font-family: var(--font-robot);
+    font-family: var(--font-outfit);
 
 }
 
