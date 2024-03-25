@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9ec038b394a5689b74ac077f9aa697d",
+    "revision": "b65cef889072628adc61e9e7bb001bcb",
     "url": "/main/index.html"
   },
   {
-    "revision": "a6fb0846535ed70e30de",
+    "revision": "99c35b781880983f5e3c",
     "url": "/main/static/css/2.166db973.chunk.css"
   },
   {
-    "revision": "20a18650eb85c6e5e2af",
+    "revision": "53a51f425b4e71008a09",
     "url": "/main/static/css/main.b930ff8f.chunk.css"
   },
   {
-    "revision": "a6fb0846535ed70e30de",
-    "url": "/main/static/js/2.479e5ac4.chunk.js"
+    "revision": "99c35b781880983f5e3c",
+    "url": "/main/static/js/2.be8302ad.chunk.js"
   },
   {
     "revision": "60f6bf9e100e456690e9ab6c9a37bfc2",
-    "url": "/main/static/js/2.479e5ac4.chunk.js.LICENSE.txt"
+    "url": "/main/static/js/2.be8302ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f31ffb52e8b1b655014",
-    "url": "/main/static/js/3.f8e74334.chunk.js"
+    "revision": "cb67abe99e3a02eb44ae",
+    "url": "/main/static/js/3.006767c2.chunk.js"
   },
   {
-    "revision": "20a18650eb85c6e5e2af",
-    "url": "/main/static/js/main.f74223f6.chunk.js"
+    "revision": "53a51f425b4e71008a09",
+    "url": "/main/static/js/main.47391646.chunk.js"
   },
   {
-    "revision": "ed5066d3b9cdf19942ba",
-    "url": "/main/static/js/runtime-main.e1f59cc7.js"
+    "revision": "a91e012fa7d924846925",
+    "url": "/main/static/js/runtime-main.c4a6f2f9.js"
   },
   {
     "revision": "f9908342957666e63327caefe73b770f",
@@ -50,6 +50,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eb5232c038a480307c44e3a8e3fd91c8",
     "url": "/main/static/media/bluesclues.eb5232c0.jpg"
+  },
+  {
+    "revision": "8a9880de649905dfd0a1adf4d4bd77ee",
+    "url": "/main/static/media/draftbanking.8a9880de.jpg"
+  },
+  {
+    "revision": "6c90c49802cfdc2068c6251664575518",
+    "url": "/main/static/media/newportfolio.6c90c498.jpg"
   },
   {
     "revision": "e953e394f9041ae354042179f225363d",
